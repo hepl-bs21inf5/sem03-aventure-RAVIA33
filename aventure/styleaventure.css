@@ -1,0 +1,45 @@
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color:whitesmoke;
+    color: black;
+  }
+  p {
+    font-size: 20px;
+  }
+title {
+    color: #268bd2;
+}
+a:link {
+    color: blue;
+    font-size: 18px;
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+    font-size: 18px;
+    text-decoration: none;
+  }
+
+a:hover {
+    color : red;
+    font-size: 18px;
+    text-decoration: none;
+  }
+
+  li {
+    list-style-type: disc;
+}
+div.polaroid {
+    width: 50%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
